@@ -1,0 +1,8 @@
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\bin\Debug\MultiPlayerService.exe.config
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\bin\Debug\MultiPlayerService.exe
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\bin\Debug\MultiPlayerService.pdb
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\bin\Debug\MultiPlayerLib.dll
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\bin\Debug\MultiPlayerLib.pdb
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\obj\Debug\MultiPlayerService.csprojResolveAssemblyReference.cache
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\obj\Debug\MultiPlayerService.exe
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiPlayerService\obj\Debug\MultiPlayerService.pdb

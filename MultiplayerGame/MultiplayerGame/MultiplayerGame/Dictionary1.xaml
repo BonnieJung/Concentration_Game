@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:MultiplayerGame">
+
+    <!-- Width and height are the window size, canvas height and menu height should add up to window size-->
+    <sys:Double x:Key="WIDTH">1000</sys:Double>
+    <sys:Double x:Key="HEIGHT">1000</sys:Double>
+
+    <sys:Double x:Key="CANVAS_WIDTH">1000</sys:Double>
+    <sys:Double x:Key="CANVAS_HEIGHT">975</sys:Double>
+
+
+
+</ResourceDictionary>

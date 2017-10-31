@@ -1,0 +1,17 @@
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\Debug\MultiplayerGame.exe.config
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\Debug\MultiplayerGame.exe
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\Debug\MultiplayerGame.pdb
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.csprojResolveAssemblyReference.cache
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MainWindow.g.cs
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\App.g.cs
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame_MarkupCompile.cache
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame_MarkupCompile.lref
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\Dictionary1.baml
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MainWindow.baml
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.g.resources
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.Properties.Resources.resources
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.csproj.GenerateResource.Cache
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.exe
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\Debug\MultiplayerGame.pdb
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\Debug\MultiPlayerLib.dll
+C:\Users\Bjung\Desktop\cpa5\ComponentW.NetINFO5060\Project2_MultiplayerGame\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\Debug\MultiPlayerLib.pdb

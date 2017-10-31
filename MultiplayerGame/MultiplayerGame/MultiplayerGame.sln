@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerGame", "MultiplayerGame\MultiplayerGame.csproj", "{70832185-97F4-4DE1-AC8B-4050EBC2609B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerLib", "MultiPlayerLib\MultiPlayerLib.csproj", "{D53863E9-1452-4FAF-9BE6-2291739C77A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPlayerService", "MultiPlayerService\MultiPlayerService.csproj", "{83CE8D7D-C946-4D40-B9EA-96B704D49C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70832185-97F4-4DE1-AC8B-4050EBC2609B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70832185-97F4-4DE1-AC8B-4050EBC2609B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70832185-97F4-4DE1-AC8B-4050EBC2609B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70832185-97F4-4DE1-AC8B-4050EBC2609B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53863E9-1452-4FAF-9BE6-2291739C77A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53863E9-1452-4FAF-9BE6-2291739C77A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53863E9-1452-4FAF-9BE6-2291739C77A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53863E9-1452-4FAF-9BE6-2291739C77A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CE8D7D-C946-4D40-B9EA-96B704D49C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CE8D7D-C946-4D40-B9EA-96B704D49C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CE8D7D-C946-4D40-B9EA-96B704D49C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CE8D7D-C946-4D40-B9EA-96B704D49C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
